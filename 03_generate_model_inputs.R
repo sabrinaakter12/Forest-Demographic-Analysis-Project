@@ -11,7 +11,7 @@
 library(dplyr)
 
 # Source preprocessing and demographic scripts (project-relative, anonymized)
-source(file.path("R", "demographic_rates_script_new.R"))
+source(file.path("R", "01_demographic_analysis.R"))
 
 # Define output directory relative to project root
 output_dir <- file.path("outputs", "initial_states")
