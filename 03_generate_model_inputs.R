@@ -68,11 +68,11 @@ create_ppa_states <- function(data, filename, plot_area_ha) {
 create_ppa_states(
   data_Group_A,
   "initial_states_treatment_wet.txt",
-  plot_area_ha = 0.75
+  plot_area_ha = 1.50
 )
 
 create_ppa_states(
   data_Group_B,
   "initial_states_treatment_dry.txt",
-  plot_area_ha = 0.50
+  plot_area_ha = 1
 )
