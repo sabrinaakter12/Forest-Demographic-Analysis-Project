@@ -3,7 +3,7 @@
 R workflow for floodplain forest demography: estimates plot-type and species-specific demographic rates (growth, mortality, recruitment), validates parameters against reference literature, generates initial states for PPA simulation, and visualizes model outputs.
 
 **Author:** Sabrina Akter  
-**Tools:** R, tidyr, dplyr, ggplot2  
+**Tools:** R( tidyr, dplyr, ggplot2 ) 
 **Context:** Floodplain Forest Research Project (University of Leipzig)
 
 > **Note on data privacy and placeholders**  
