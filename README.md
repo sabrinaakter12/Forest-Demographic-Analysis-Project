@@ -7,7 +7,7 @@ R workflow for floodplain forest demography: estimates plot-type and species-spe
 **Context:** Floodplain Forest Research Project (University of Leipzig)
 
 > **Note on data privacy and placeholders**  
-> All species, plot IDs, and treatment labels used in the scripts are **anonymized ** (for example, `Species_A`–`Species_G`, `Treatment_Wet`, `Treatment_Dry`, generic plot IDs). The raw forest inventory dataset is **confidential** and not included.However, the code reproduces the complete analysis workflow .
+> All species, plot IDs, and treatment labels used in the scripts are **anonymized** (for example, `Species_A`–`Species_G`, `Treatment_Wet`, `Treatment_Dry`, generic plot IDs). The raw forest inventory dataset is **confidential** and not included.However, the code reproduces the complete analysis workflow .
 
 ## Project Overview
 
